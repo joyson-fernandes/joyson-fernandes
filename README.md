@@ -26,5 +26,6 @@ Thank you for visiting my profile! Looking forward to collaborating with you!
 ## 🏆 My Credly Badges
 
 [![GitHub Foundation]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c/public_url)
-
+[![Terraform Associate (003)]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370/public_url)
+[![AWS Certified Cloud Practitioner]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa/public_url)
 
