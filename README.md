@@ -24,8 +24,4 @@ Thank you for visiting my profile! Looking forward to collaborating with you!
 
 ## 🏷️ Badges
 
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourrepository.svg)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/yourrepository.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
-![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-brightgreen)
-![npm](https://img.shields.io/npm/v/npm.svg)
+[![GitHub Foundation](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="488169ab-b5f3-48e8-ad70-729da45c483c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
