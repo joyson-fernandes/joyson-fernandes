@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I’m a passionate Cloud DevOps Engineer / Infrast
 - https://joysonfernandes.com/@joysonfernandes
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python
-- Tools: Git, Docker, Kuberbates
+- Cloud: AWS, Azure, google
+- Programming Languages: Python, Go
+- Scripting Languages: PowerShell, Bash Scripting
+- Tools: Git, Docker, Jenkins, Kuberbates, Ansible, Terraform, GotHub
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
