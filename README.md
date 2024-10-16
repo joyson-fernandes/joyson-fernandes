@@ -22,10 +22,9 @@ Feel free to reach out through my LinkedIn or directly via email at jf@joysontec
 
 Thank you for visiting my profile! Looking forward to collaborating with you!
 
-## 🏷️ Badges
 
 ## 🏆 My Credly Badges
 
-[![GitHub Foundation](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c/public_url)](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c/public_url)
+[![GitHub Foundation]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c/public_url))
 
 
