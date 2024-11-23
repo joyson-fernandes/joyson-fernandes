@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JOYSON FERNANDES</h1>
 
 Welcome to my GitHub profile! I’m a passionate Cloud DevOps Engineer / Infrastructure Engineer with a keen interest in DevOps Methodlogies like Azure | AWS | Terraform | Kubernetes | Linux | Python | Jenkins | GitHub
