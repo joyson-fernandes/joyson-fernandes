@@ -6,7 +6,7 @@
 
 <div> <a href="https://www.linkedin.com/in/joysonfernandes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/joyson-fernandes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<div> <a href="https://joysonfernandes.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://joysonfernandes.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "jf@joysontech.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 
