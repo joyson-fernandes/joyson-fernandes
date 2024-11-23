@@ -29,6 +29,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
+<h2> My Lastest badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/joyson-fernandes)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### My Github Stats 📊
 
