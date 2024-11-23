@@ -34,18 +34,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyson-fernandes&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyson-fernandes&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyson-fernandes&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyson-fernandes&theme=github_dark&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)
 
 
 
 
-<h3 align="left">My Github Stats</h3>
-<img align="left" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&layout=compact&theme=github_dark" alt=joyson-fernandes />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyson-fernandes&theme=github_dark" height="180em" />
 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyson-fernandes&layout=compact&theme=dark" alt=joyson-fernandes />
+
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joyson-fernandes&show_icons=true&locale=en&theme=dark" alt="MASTHAN55" /></p>
 
