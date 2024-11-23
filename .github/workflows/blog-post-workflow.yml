@@ -3,6 +3,10 @@ on:
   schedule:
     # Runs at 1am UTC
     - cron: "0 1 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme  
+  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
