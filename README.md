@@ -28,24 +28,25 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyson-fernandes&layout=compact&theme=dark" alt=MASTHAN55 />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joyson-fernandes&show_icons=true&locale=en&theme=dark" alt="MASTHAN55" /></p>
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joyson-fernandes&theme=dark" alt="MASTHAN55" /></p>
 
-## 📈 Projects
-### https://medium.com/@joysonfernandes
-- Check out my projects and artucles on medium.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/joyson-fernandes">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyson-fernandes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyson-fernandes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyson-fernandes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyson-fernandes&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joyson-fernandes&theme=default"/>
 
-## 📫 How to reach me
-Feel free to reach out through my LinkedIn or directly via email at jf@joysontech.com
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-Thank you for visiting my profile! Looking forward to collaborating with you!
-
-
-## 🏆 My Credly Badges
-
-[![GitHub Foundation]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c/public_url)
-[![Terraform Associate (003)]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370/public_url)
-[![AWS Certified Cloud Practitioner]([(https://joysontechoutlook-my.sharepoint.com/:i:/g/personal/jf_joysontech_com/EWwek51l07NPt5VTAJt5qo8BkMcVbOtvMNCGw34cjGECZQ?e=BcdXam))](https://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa/public_url)
 
