@@ -60,6 +60,13 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 November 2024 - To: 22 November 2024
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### My Github Stats 📊
