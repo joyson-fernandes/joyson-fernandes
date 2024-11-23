@@ -56,6 +56,10 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 - [“Automating AWS Infrastructure deployment with CloudFormation](https://joysonfernandes.medium.com/automating-aws-infrastructure-deployment-with-cloudformation-96df7b052734?source=rss-59fe078e2cb4------2)
 <!-- BLOG-POST-LIST:END -->
 
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
 
