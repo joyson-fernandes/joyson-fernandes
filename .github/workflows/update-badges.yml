@@ -20,6 +20,8 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  
+          REPOSITORY: joyson-fernandes/joyson-fernandes
           CREDLY_USER: joysonfernandes619@gmail.com # optional, but default will use the same from github
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 10
