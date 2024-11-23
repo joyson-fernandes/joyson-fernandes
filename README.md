@@ -36,7 +36,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyson-fernandes&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyson-fernandes&theme=github_dark&utcOffset=8)
 
 
-<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=joyson-fernandes&show_icons=true&locale=en&theme=github_dark" alt="joyson-fernandes" /></p>
 <p><img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=joyson-fernandes&theme=github_dark" alt="joyson-fernandes" /></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
