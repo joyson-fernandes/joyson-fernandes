@@ -28,7 +28,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">My Github Stats</h3>
+<img align="left" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details??username=joyson-fernandes&layout=compact&theme=dark" alt=joyson-fernandes />
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyson-fernandes&layout=compact&theme=dark" alt=MASTHAN55 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joyson-fernandes&show_icons=true&locale=en&theme=dark" alt="MASTHAN55" /></p>
