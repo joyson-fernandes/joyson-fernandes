@@ -34,6 +34,16 @@
 To see all the other badges are [here](https://www.credly.com/users/joyson-fernandes)
 
 <!--START_SECTION:badges-->
+[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/100x100/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/9d90591d-ffb2-490b-a519-a1ac264b4cc5 "AWS Certified AI Practitioner Early Adopter")
+[![AWS Certified AI Practitioner](https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/49a5a9a1-94e2-4cb5-a5bb-08cc8de0b683 "AWS Certified AI Practitioner")
+[![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c "GitHub Foundations")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/945ffe69-d292-4b14-9134-880382711e53 "AWS Certified Cloud Practitioner")
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/100x100/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370 "HashiCorp Certified: Terraform Associate (003)")
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/e2a99715-318c-4860-b449-a27424ff11ee "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
+[![MTA: Windows Server Administration Fundamentals - Certified 2021](https://images.credly.com/size/100x100/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png)](http://www.credly.com/badges/beb428cd-1d52-46ff-b924-9e585885f065 "MTA: Windows Server Administration Fundamentals - Certified 2021")
+[![MTA: Windows Operating System Fundamentals - Certified 2021](https://images.credly.com/size/100x100/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png)](http://www.credly.com/badges/ad459674-3e0e-4439-b292-266c13a66d2c "MTA: Windows Operating System Fundamentals - Certified 2021")
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/100x100/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/25e7a79e-3460-4ce3-bef7-4b71be99c789 "Microsoft 365 Certified: Fundamentals")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 ### My Github Stats 📊
