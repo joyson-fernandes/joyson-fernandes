@@ -29,8 +29,8 @@
 </p>
 
 <h3 align="left">My Github Stats</h3>
-<img align="left" height="220em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&theme=github_dark&layout=compact&theme=dark" alt=joyson-fernandes />
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyson-fernandes&layout=compact&theme=dark" alt=MASTHAN55 />
+<img align="left" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&layout=compact&theme=github_dark" alt=joyson-fernandes />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyson-fernandes&layout=compact&theme=dark" alt=joyson-fernandes />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joyson-fernandes&show_icons=true&locale=en&theme=dark" alt="MASTHAN55" /></p>
 
