@@ -46,6 +46,11 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
+<h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### My Github Stats 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&theme=github_dark)
