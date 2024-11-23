@@ -28,6 +28,17 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
 </p>
 
+
+### My Github Stats 📊
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+
+
+
 <h3 align="left">My Github Stats</h3>
 <img align="left" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyson-fernandes&layout=compact&theme=github_dark" alt=joyson-fernandes />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyson-fernandes&theme=github_dark" height="180em" />
