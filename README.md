@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JOYSON FERNANDES</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JOYSON FERNANDES</h1>
 
 Welcome to my GitHub profile! I’m a passionate Cloud DevOps Engineer / Infrastructure Engineer with a keen interest in DevOps Methodlogies like Azure | AWS | Terraform | Kubernetes | Linux | Python | Jenkins | GitHub
 
