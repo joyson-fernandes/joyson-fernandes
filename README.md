@@ -50,9 +50,6 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 [![MCSA: Windows Server 2012 - Certified 2019](https://images.credly.com/size/100x100/images/3b801952-5bdb-4f9c-8643-b6060a804fc0/MCSA-Windows-Server-2012-2019.png)](http://www.credly.com/badges/ef8ef9c4-6980-4ff1-b6d6-314251c8b4ac "MCSA: Windows Server 2012 - Certified 2019")
 [![Exam 411: Administering Windows Server 2012](https://images.credly.com/size/100x100/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png)](http://www.credly.com/badges/524cc5bb-7ba4-419d-b94a-a29d351082ed "Exam 411: Administering Windows Server 2012")
 [![Exam 410: Installing and Configuring Windows Server 2012](https://images.credly.com/size/100x100/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png)](http://www.credly.com/badges/da17bbf1-b959-4c35-b960-2164e30d6523 "Exam 410: Installing and Configuring Windows Server 2012")
-[![Dependable](https://images.credly.com/size/100x100/images/94ab7821-2b7c-483b-8d80-a093d951dcb1/e55be82e40236b550521f0449639d2718c10ae26.png)](http://www.credly.com/badges/edbc8ae5-4379-44a8-9260-7266b769a473 "Dependable")
-[![Problem Solver](https://images.credly.com/size/100x100/images/1c56a5bb-1f40-4ee0-bac3-4f6a01d6c2e5/f543501e771795b28400180c2136660979340875.png)](http://www.credly.com/badges/9c027a49-b7c3-49ac-91d7-dc022ab5c68c "Problem Solver")
-[![Well Organized](https://images.credly.com/size/100x100/images/02233e24-50c1-4843-b567-7d6458169170/02eb0c98953ad60d0ba670323f9a4f5a8861abab.png)](http://www.credly.com/badges/86c74022-ae18-41cb-9d2a-91453f12f78d "Well Organized")
 <!--END_SECTION:badges-->
 
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
