@@ -24,4 +24,4 @@ jobs:
           REPOSITORY: joyson-fernandes/joyson-fernandes
           CREDLY_USER: joyson-fernandes # optional, but default will use the same from github
           BADGE_SIZE: 100
-          NUMBER_LAST_BADGES: 24
+          NUMBER_LAST_BADGES: 16
