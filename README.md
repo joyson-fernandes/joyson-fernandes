@@ -70,11 +70,12 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 22 November 2024
+From: 23 November 2024 - To: 23 November 2024
 
-Total Time: 0 secs
+Total Time: 54 mins
 
-No activity tracked
+YAML       50 mins         ███████████████████████▒░   92.77 %
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
