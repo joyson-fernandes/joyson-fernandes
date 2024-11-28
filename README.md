@@ -76,13 +76,13 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 25 November 2024
+From: 23 November 2024 - To: 26 November 2024
 
-Total Time: 1 hr 16 mins
+Total Time: 1 hr 31 mins
 
-YAML       50 mins         ████████████████▓░░░░░░░░   66.34 %
-Python     21 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+YAML       50 mins         ██████████████░░░░░░░░░░░   55.73 %
+Python     36 mins         ██████████░░░░░░░░░░░░░░░   39.93 %
+Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
