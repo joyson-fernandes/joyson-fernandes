@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JOYSON FERNANDES</h1>
 <h3 align="center">I’m a Infrastructure Engineer transitioning to Cloud and DevOps Engineer</h3>
 <h3 align="center">2X AWS | 3X Azure | AI/ML | Terraform 🏗️ | Linux🐧| Python🐍 | Kubernetes | Jenkins | GitHub Actions | Networking | VMware | O365 | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/joyson-fernandes/joyson-fernandes/blob/main/Images/Working.gif?raw=true" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyson-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="joyson-fernandes" /> </p>
 
