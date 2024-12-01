@@ -18,7 +18,7 @@
 
 - 💬 You can ask me about **AWS, Azure, Linux, Docker, GitHub Actions, Terraform**
 
-- ⚡Intrsting fact **"Amazon deploys code every 11.6 seconds on average, thanks to their DevOps practices and cloud infrastructure!!!!"**
+- ⚡Intersting fact **"Amazon deploys code every 11.6 seconds on average, thanks to their DevOps practices and cloud infrastructure!!!!"**
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
