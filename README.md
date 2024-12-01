@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/joyson-fernandes/joyson-fernandes/blob/main/Images/Cloud-and-DevOps-are-better-together.png?raw=true" width="100%" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JOYSON FERNANDES</h1>
 <h3 align="center">I’m a Infrastructure Engineer transitioning to Cloud and DevOps Engineer</h3>
+<h3 align="center">2X AWS | 3X Azure | AI/ML | Terraform 🏗️ | Linux🐧| Python🐍 | Kubernetes | Jenkins | GitHub Actions | Networking | VMware | O365 | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyson-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="joyson-fernandes" /> </p>
 
 </div><h3 align="left">🌐 Connect with me:</h3>
@@ -10,7 +13,12 @@
 <a href="https://joysonfernandes.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "jf@joysontech.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
+- 🔭 I’m currently **Preparing for AWS Developers Associate Exam**
+- 📝 I regularly write articles on **Various DevOps Concepts**
 
+- 💬 You can ask me about **AWS, Azure, Linux, Docker, GitHub Actions, Terraform**
+
+- ⚡Intrsting fact **"Amazon deploys code every 11.6 seconds on average, thanks to their DevOps practices and cloud infrastructure!!!!"**
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
