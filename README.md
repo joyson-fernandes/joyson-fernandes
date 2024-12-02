@@ -64,11 +64,11 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate EC2 Shutdowns Using AWS Lambda, EventBridge and API Gateway](https://joysonfernandes.medium.com/automate-ec2-shutdowns-using-aws-lambda-eventbridge-and-api-gateway-5cf8dd3a03d2?source=rss-59fe078e2cb4------2)
 - [Building a Python Script to Extract File Information](https://joysonfernandes.medium.com/building-a-python-script-to-extract-file-information-33e6dbaab7f2?source=rss-59fe078e2cb4------2)
 - [Building a CI/CD Pipeline for Hosting Resume Websites on S3 Using GitHub and AWS CodePipeline](https://joysonfernandes.medium.com/building-a-ci-cd-pipeline-for-hosting-resume-websites-on-s3-using-github-and-aws-codepipeline-eae80d50b3a6?source=rss-59fe078e2cb4------2)
 - [DynamoDB in Action: A Practical Case Study for the Media Industry](https://joysonfernandes.medium.com/dynamodb-in-action-a-practical-case-study-for-the-media-industry-f5a58c912d79?source=rss-59fe078e2cb4------2)
 - [Deploying Joomla CMS: Two Tier Architecture on AWS With EC2 and RDS](https://joysonfernandes.medium.com/deploying-joomla-cms-two-tier-architecture-on-aws-with-ec2-and-rds-e93b95539717?source=rss-59fe078e2cb4------2)
-- [Automating AWS Infrastructure deployment with CloudFormation](https://joysonfernandes.medium.com/automating-aws-infrastructure-deployment-with-cloudformation-96df7b052734?source=rss-59fe078e2cb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ My Recent Activity
