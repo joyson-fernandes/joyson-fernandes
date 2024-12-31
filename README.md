@@ -14,7 +14,7 @@
 <a href="https://joysonfernandes.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" target="_blank"></a>
 <a href = "jf@joysontech.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently **Preparing for AWS Developers Associate Exam**
+- 🔭 I’m currently **Preparing for AI-900 and CKA**
 - 📝 I regularly write articles on **Various DevOps Concepts**
 
 - 💬 You can ask me about **AWS, Azure, Linux, Docker, GitHub Actions, Terraform**
