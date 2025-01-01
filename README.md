@@ -43,10 +43,11 @@
 To see all the other badges are [here](https://www.credly.com/users/joyson-fernandes)
 
 <!--START_SECTION:badges-->
+[![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/fe5497f8-d3fd-492f-88d9-fc04cd0bb31a "AWS Certified Developer – Associate")
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/100x100/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/9d90591d-ffb2-490b-a519-a1ac264b4cc5 "AWS Certified AI Practitioner Early Adopter")
 [![AWS Certified AI Practitioner](https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/49a5a9a1-94e2-4cb5-a5bb-08cc8de0b683 "AWS Certified AI Practitioner")
 [![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c "GitHub Foundations")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/945ffe69-d292-4b14-9134-880382711e53 "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/360d610c-b0e2-4142-b469-e1feb3b9fb33 "AWS Certified Cloud Practitioner")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/100x100/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370 "HashiCorp Certified: Terraform Associate (003)")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/e2a99715-318c-4860-b449-a27424ff11ee "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![MTA: Windows Server Administration Fundamentals - Certified 2021](https://images.credly.com/size/100x100/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png)](http://www.credly.com/badges/beb428cd-1d52-46ff-b924-9e585885f065 "MTA: Windows Server Administration Fundamentals - Certified 2021")
@@ -58,7 +59,6 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 [![Exam 412: Configuring Advanced Windows Server 2012 Services](https://images.credly.com/size/100x100/images/e5fd613d-591c-490c-b366-3afb3de4717b/Configuring_Advanced_Windows_Server_2012_Services-01.png)](http://www.credly.com/badges/dea2133a-d46b-4c58-a2fe-002d401e5c45 "Exam 412: Configuring Advanced Windows Server 2012 Services")
 [![MCSA: Windows Server 2012 - Certified 2019](https://images.credly.com/size/100x100/images/3b801952-5bdb-4f9c-8643-b6060a804fc0/MCSA-Windows-Server-2012-2019.png)](http://www.credly.com/badges/ef8ef9c4-6980-4ff1-b6d6-314251c8b4ac "MCSA: Windows Server 2012 - Certified 2019")
 [![Exam 411: Administering Windows Server 2012](https://images.credly.com/size/100x100/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png)](http://www.credly.com/badges/524cc5bb-7ba4-419d-b94a-a29d351082ed "Exam 411: Administering Windows Server 2012")
-[![Exam 410: Installing and Configuring Windows Server 2012](https://images.credly.com/size/100x100/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png)](http://www.credly.com/badges/da17bbf1-b959-4c35-b960-2164e30d6523 "Exam 410: Installing and Configuring Windows Server 2012")
 <!--END_SECTION:badges-->
 
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
