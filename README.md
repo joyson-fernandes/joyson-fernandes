@@ -64,11 +64,11 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting Static Website on Azure Blob Storage With Azure CDN](https://joysonfernandes.medium.com/hosting-static-website-on-azure-blob-storage-with-azure-cdn-60efb9ae694c?source=rss-59fe078e2cb4------2)
 - [Migrating Website from EC2 and Deploying To a Serverless DevOps Architecture](https://joysonfernandes.medium.com/migrating-website-from-ec2-and-deploying-to-a-serverless-devops-architecture-85087dd854e4?source=rss-59fe078e2cb4------2)
 - [Automate EC2 Shutdowns Using AWS Lambda, EventBridge and API Gateway](https://joysonfernandes.medium.com/automate-ec2-shutdowns-using-aws-lambda-eventbridge-and-api-gateway-5cf8dd3a03d2?source=rss-59fe078e2cb4------2)
 - [Building a Python Script to Extract File Information](https://joysonfernandes.medium.com/building-a-python-script-to-extract-file-information-33e6dbaab7f2?source=rss-59fe078e2cb4------2)
 - [Building a CI/CD Pipeline for Hosting Resume Websites on S3 Using GitHub and AWS CodePipeline](https://joysonfernandes.medium.com/building-a-ci-cd-pipeline-for-hosting-resume-websites-on-s3-using-github-and-aws-codepipeline-eae80d50b3a6?source=rss-59fe078e2cb4------2)
-- [DynamoDB in Action: A Practical Case Study for the Media Industry](https://joysonfernandes.medium.com/dynamodb-in-action-a-practical-case-study-for-the-media-industry-f5a58c912d79?source=rss-59fe078e2cb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ My Recent Activity
