@@ -73,10 +73,10 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/joyson-fernandes/CI-CD_My_Resume_Static_website_S3/pull/3) in [joyson-fernandes/CI-CD_My_Resume_Static_website_S3](https://github.com/joyson-fernandes/CI-CD_My_Resume_Static_website_S3)
-2. 💪 Opened PR [#3](https://github.com/joyson-fernandes/CI-CD_My_Resume_Static_website_S3/pull/3) in [joyson-fernandes/CI-CD_My_Resume_Static_website_S3](https://github.com/joyson-fernandes/CI-CD_My_Resume_Static_website_S3)
-3. 🎉 Merged PR [#2](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App/pull/2) in [joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App)
-4. 💪 Opened PR [#2](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App/pull/2) in [joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App)
+1. 🎉 Merged PR [#2](https://github.com/joyson-fernandes/terraform-cicd-project/pull/2) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+2. 💪 Opened PR [#2](https://github.com/joyson-fernandes/terraform-cicd-project/pull/2) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+3. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/terraform-cicd-project/pull/1) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+4. 💪 Opened PR [#1](https://github.com/joyson-fernandes/terraform-cicd-project/pull/1) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
 5. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App/pull/1) in [joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App)
 <!--END_SECTION:activity-->
 
