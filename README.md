@@ -73,11 +73,11 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/joyson-fernandes/terraform-cicd-project/pull/2) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
-2. 💪 Opened PR [#2](https://github.com/joyson-fernandes/terraform-cicd-project/pull/2) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
-3. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/terraform-cicd-project/pull/1) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
-4. 💪 Opened PR [#1](https://github.com/joyson-fernandes/terraform-cicd-project/pull/1) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
-5. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App/pull/1) in [joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App](https://github.com/joyson-fernandes/AWS_Serverless-CertExpiry-Alert-App)
+1. 🎉 Merged PR [#4](https://github.com/joyson-fernandes/terraform-cicd-project/pull/4) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+2. 💪 Opened PR [#4](https://github.com/joyson-fernandes/terraform-cicd-project/pull/4) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+3. 🎉 Merged PR [#3](https://github.com/joyson-fernandes/terraform-cicd-project/pull/3) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+4. 💪 Opened PR [#3](https://github.com/joyson-fernandes/terraform-cicd-project/pull/3) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+5. 🎉 Merged PR [#2](https://github.com/joyson-fernandes/terraform-cicd-project/pull/2) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
 <!--END_SECTION:activity-->
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
