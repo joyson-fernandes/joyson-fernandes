@@ -85,7 +85,7 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 18 April 2025
+From: 23 November 2024 - To: 19 April 2025
 
 Total Time: 22 hrs 41 mins
 
