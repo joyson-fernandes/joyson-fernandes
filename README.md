@@ -64,11 +64,11 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy A Jenkins Server With Terraform on AWS](https://joysonfernandes.medium.com/deploy-a-jenkins-server-with-terraform-on-aws-b5916a8cf6c6?source=rss-59fe078e2cb4------2)
 - [Building and Deploying a Custom Web Server with Docker Containers](https://joysonfernandes.medium.com/building-and-deploying-a-custom-web-server-with-docker-containers-e82f3bb1da3f?source=rss-59fe078e2cb4------2)
 - [Hosting Static Website on Azure Blob Storage With Azure CDN](https://joysonfernandes.medium.com/hosting-static-website-on-azure-blob-storage-with-azure-cdn-60efb9ae694c?source=rss-59fe078e2cb4------2)
 - [Migrating Website from EC2 and Deploying To a Serverless DevOps Architecture](https://joysonfernandes.medium.com/migrating-website-from-ec2-and-deploying-to-a-serverless-devops-architecture-85087dd854e4?source=rss-59fe078e2cb4------2)
 - [Automate EC2 Shutdowns Using AWS Lambda, EventBridge and API Gateway](https://joysonfernandes.medium.com/automate-ec2-shutdowns-using-aws-lambda-eventbridge-and-api-gateway-5cf8dd3a03d2?source=rss-59fe078e2cb4------2)
-- [Building a Python Script to Extract File Information](https://joysonfernandes.medium.com/building-a-python-script-to-extract-file-information-33e6dbaab7f2?source=rss-59fe078e2cb4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ My Recent Activity
