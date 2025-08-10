@@ -43,6 +43,7 @@
 To see all the other badges are [here](https://www.credly.com/users/joyson-fernandes)
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/c78c213c-b0d8-4105-a68b-5af3521e3d7f" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/423c0dea-fa01-4a29-824b-7adb5b4f247e" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3086ed10-f108-4e12-9405-2dea252c52f0" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fe5497f8-d3fd-492f-88d9-fc04cd0bb31a" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
@@ -58,7 +59,6 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 <a href="https://www.credly.com/badges/295716c6-bbda-4fb7-afd4-b8b93a38e15c" title="VMware Certified Professional 6 – Data Center Virtualization"><img src="https://images.credly.com/size/80x80/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png" alt="VMware Certified Professional 6 – Data Center Virtualization" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/dea2133a-d46b-4c58-a2fe-002d401e5c45" title="Exam 412: Configuring Advanced Windows Server 2012 Services"><img src="https://images.credly.com/size/80x80/images/e5fd613d-591c-490c-b366-3afb3de4717b/Configuring_Advanced_Windows_Server_2012_Services-01.png" alt="Exam 412: Configuring Advanced Windows Server 2012 Services" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ef8ef9c4-6980-4ff1-b6d6-314251c8b4ac" title="MCSA: Windows Server 2012 - Certified 2019"><img src="https://images.credly.com/size/80x80/images/3b801952-5bdb-4f9c-8643-b6060a804fc0/MCSA-Windows-Server-2012-2019.png" alt="MCSA: Windows Server 2012 - Certified 2019" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/524cc5bb-7ba4-419d-b94a-a29d351082ed" title="Exam 411: Administering Windows Server 2012"><img src="https://images.credly.com/size/80x80/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png" alt="Exam 411: Administering Windows Server 2012" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
