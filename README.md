@@ -73,8 +73,8 @@ To see all the other badges are [here](https://www.credly.com/users/joyson-ferna
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/joyson-fernandes/terraform-cicd-project/pull/16) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
-2. 💪 Opened PR [#16](https://github.com/joyson-fernandes/terraform-cicd-project/pull/16) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
+1. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/go-ci-demo/pull/1) in [joyson-fernandes/go-ci-demo](https://github.com/joyson-fernandes/go-ci-demo)
+2. 💪 Opened PR [#1](https://github.com/joyson-fernandes/go-ci-demo/pull/1) in [joyson-fernandes/go-ci-demo](https://github.com/joyson-fernandes/go-ci-demo)
 3. 🎉 Merged PR [#15](https://github.com/joyson-fernandes/terraform-cicd-project/pull/15) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
 4. 💪 Opened PR [#15](https://github.com/joyson-fernandes/terraform-cicd-project/pull/15) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
 5. 🎉 Merged PR [#14](https://github.com/joyson-fernandes/terraform-cicd-project/pull/14) in [joyson-fernandes/terraform-cicd-project](https://github.com/joyson-fernandes/terraform-cicd-project)
