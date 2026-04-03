@@ -70,8 +70,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,go,python,ts,bash&theme=dark&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,ansible,prometheus,grafana,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,gcp,go,python,ts&theme=dark&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,githubactions,ansible,prometheus,grafana,jenkins&theme=dark&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=nginx,postgresql,redis,cloudflare,nextjs,react,vscode,powershell&theme=dark&perline=9" />
 </p>
 
 ---
