@@ -31,16 +31,38 @@
 </p>
 
 <details>
-<summary><b>☁️ AWS & Cloud Certifications</b></summary>
+<summary><b>☁️ All Certifications (AWS, Azure, HashiCorp, VMware, Microsoft, GitHub)</b></summary>
 <br>
-<p align="center">
+
+**AWS**
+<p>
   <a href="https://www.credly.com/badges/fe5497f8-d3fd-492f-88d9-fc04cd0bb31a"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" width="80"></a>
   <a href="https://www.credly.com/badges/49a5a9a1-94e2-4cb5-a5bb-08cc8de0b683"><img src="https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI Practitioner" width="80"></a>
+  <a href="https://www.credly.com/badges/9d90591d-ffb2-490b-a519-a1ac264b4cc5"><img src="https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS AI Practitioner Early Adopter" width="80"></a>
   <a href="https://www.credly.com/badges/360d610c-b0e2-4142-b469-e1feb3b9fb33"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="80"></a>
+</p>
+
+**Azure & Microsoft**
+<p>
   <a href="https://www.credly.com/badges/e9f09c88-b460-4ebb-8244-e2ef8af6d803"><img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" width="80"></a>
   <a href="https://www.credly.com/badges/e2a99715-318c-4860-b449-a27424ff11ee"><img src="https://images.credly.com/size/80x80/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="SC-900" width="80"></a>
+  <a href="https://www.credly.com/badges/25e7a79e-3460-4ce3-bef7-4b71be99c789"><img src="https://images.credly.com/size/80x80/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsoft 365 Fundamentals" width="80"></a>
+  <a href="https://www.credly.com/badges/ef8ef9c4-6980-4ff1-b6d6-314251c8b4ac"><img src="https://images.credly.com/size/80x80/images/3b801952-5bdb-4f9c-8643-b6060a804fc0/MCSA-Windows-Server-2012-2019.png" alt="MCSA Windows Server 2012" width="80"></a>
+  <a href="https://www.credly.com/badges/beb428cd-1d52-46ff-b924-9e585885f065"><img src="https://images.credly.com/size/80x80/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png" alt="MTA Windows Server Admin" width="80"></a>
+  <a href="https://www.credly.com/badges/ad459674-3e0e-4439-b292-266c13a66d2c"><img src="https://images.credly.com/size/80x80/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png" alt="MTA Windows OS" width="80"></a>
+</p>
+
+**HashiCorp & VMware**
+<p>
+  <a href="https://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate 003" width="80"></a>
+  <a href="https://www.credly.com/badges/295716c6-bbda-4fb7-afd4-b8b93a38e15c"><img src="https://images.credly.com/size/80x80/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png" alt="VMware VCP6-DCV" width="80"></a>
+</p>
+
+**GitHub**
+<p>
   <a href="https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80"></a>
 </p>
+
 </details>
 
 ---
