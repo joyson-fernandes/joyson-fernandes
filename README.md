@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://joysonfernandes.com"><img src="https://img.shields.io/badge/Portfolio-joysonfernandes.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/joysonfernandes/"><img src="https://img.shields.io/badge/LinkedIn-joysonfernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://joysonfernandes.medium.com/"><img src="https://img.shields.io/badge/Medium-joysonfernandes-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/joyson-fernandes"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://joysonfernandes.com"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joysonfernandes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://joysonfernandes.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/joyson-fernandes"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 <p align="center">
