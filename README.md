@@ -137,7 +137,7 @@ I run a production-grade **6-node Kubernetes cluster** on bare metal with:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 02 April 2026
+From: 23 November 2024 - To: 03 April 2026
 
 Total Time: 94 hrs 37 mins
 
