@@ -157,10 +157,10 @@ HTML         9 hrs 14 mins         █▒░░░░░░░░░░░░░
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/portfolio-website-v2/pull/1) in [joyson-fernandes/portfolio-website-v2](https://github.com/joyson-fernandes/portfolio-website-v2)
-2. 💪 Opened PR [#1](https://github.com/joyson-fernandes/portfolio-website-v2/pull/1) in [joyson-fernandes/portfolio-website-v2](https://github.com/joyson-fernandes/portfolio-website-v2)
-3. 🎉 Merged PR [#1](https://github.com/joyson-fernandes/go-ci-demo/pull/1) in [joyson-fernandes/go-ci-demo](https://github.com/joyson-fernandes/go-ci-demo)
-4. 💪 Opened PR [#1](https://github.com/joyson-fernandes/go-ci-demo/pull/1) in [joyson-fernandes/go-ci-demo](https://github.com/joyson-fernandes/go-ci-demo)
+1. ❌ Closed PR [#10](https://github.com/joyson-fernandes/gitops/pull/10) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+2. 🗣 Commented on [#10](https://github.com/joyson-fernandes/gitops/pull/10#issuecomment-4275970278) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+3. ❌ Closed PR [#8](https://github.com/joyson-fernandes/gitops/pull/8) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+4. 🗣 Commented on [#8](https://github.com/joyson-fernandes/gitops/pull/8#issuecomment-4275970221) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
 <!--END_SECTION:activity-->
 
 ---
