@@ -157,10 +157,10 @@ HTML         9 hrs 39 mins         █▒░░░░░░░░░░░░░
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/joyson-fernandes/gitops/pull/10) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
-2. 🗣 Commented on [#10](https://github.com/joyson-fernandes/gitops/pull/10#issuecomment-4275970278) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
-3. ❌ Closed PR [#8](https://github.com/joyson-fernandes/gitops/pull/8) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
-4. 🗣 Commented on [#8](https://github.com/joyson-fernandes/gitops/pull/8#issuecomment-4275970221) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+1. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
+2. ❌ Closed PR [#10](https://github.com/joyson-fernandes/gitops/pull/10) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+3. 🗣 Commented on [#10](https://github.com/joyson-fernandes/gitops/pull/10#issuecomment-4275970278) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+4. ❌ Closed PR [#8](https://github.com/joyson-fernandes/gitops/pull/8) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
 <!--END_SECTION:activity-->
 
 ---
