@@ -137,15 +137,15 @@ I run a production-grade **6-node Kubernetes cluster** on bare metal with:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 18 April 2026
+From: 23 November 2024 - To: 19 April 2026
 
-Total Time: 114 hrs 55 mins
+Total Time: 118 hrs 42 mins
 
-Other        66 hrs 11 mins        █████████░░░░░░░░░░░░░░░░   36.55 %
-YAML         41 hrs 18 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Markdown     15 hrs 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Terraform    11 hrs 24 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-HTML         9 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Other        68 hrs 10 mins        █████████░░░░░░░░░░░░░░░░   36.48 %
+YAML         42 hrs 33 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Markdown     16 hrs 22 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Terraform    11 hrs 33 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+TypeScript   10 hrs 23 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
