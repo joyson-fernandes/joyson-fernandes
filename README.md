@@ -157,9 +157,9 @@ Terraform    11 hrs 33 mins        █▒░░░░░░░░░░░░░
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#349](https://github.com/crowdsecurity/helm-charts/issues/349) in [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts)
-2. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
-3. ❌ Closed PR [#10](https://github.com/joyson-fernandes/gitops/pull/10) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+1. 💪 Opened PR [#504](https://github.com/santifer/career-ops/pull/504) in [santifer/career-ops](https://github.com/santifer/career-ops)
+2. ❗ Opened issue [#349](https://github.com/crowdsecurity/helm-charts/issues/349) in [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts)
+3. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
 4. 🗣 Commented on [#10](https://github.com/joyson-fernandes/gitops/pull/10#issuecomment-4275970278) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
 <!--END_SECTION:activity-->
 
