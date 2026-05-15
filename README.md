@@ -157,10 +157,10 @@ Python                     23 hrs 27 mins        ██░░░░░░░░�
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#504](https://github.com/santifer/career-ops/pull/504) in [santifer/career-ops](https://github.com/santifer/career-ops)
-2. ❗ Opened issue [#349](https://github.com/crowdsecurity/helm-charts/issues/349) in [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts)
-3. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
-4. ❌ Closed PR [#10](https://github.com/joyson-fernandes/gitops/pull/10) in [joyson-fernandes/gitops](https://github.com/joyson-fernandes/gitops)
+1. 🎉 Merged PR [#504](https://github.com/santifer/career-ops/pull/504) in [santifer/career-ops](https://github.com/santifer/career-ops)
+2. 💪 Opened PR [#504](https://github.com/santifer/career-ops/pull/504) in [santifer/career-ops](https://github.com/santifer/career-ops)
+3. ❗ Opened issue [#349](https://github.com/crowdsecurity/helm-charts/issues/349) in [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts)
+4. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
 <!--END_SECTION:activity-->
 
 ---
