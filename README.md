@@ -157,8 +157,8 @@ Python                     24 hrs 27 mins        ██░░░░░░░░�
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [klip v1.1.0](https://github.com/joyson-fernandes/klip/releases/tag/v1.1.0) in [joyson-fernandes/klip](https://github.com/joyson-fernandes/klip)
-2. 💪 Opened PR [#504](https://github.com/santifer/career-ops/pull/504) in [santifer/career-ops](https://github.com/santifer/career-ops)
+1. 🚀 Published release [Recapit v1.0.0 — Phase 1 MVP](https://github.com/joyson-fernandes/recapit/releases/tag/v1.0.0) in [joyson-fernandes/recapit](https://github.com/joyson-fernandes/recapit)
+2. 🚀 Published release [klip v1.1.0](https://github.com/joyson-fernandes/klip/releases/tag/v1.1.0) in [joyson-fernandes/klip](https://github.com/joyson-fernandes/klip)
 3. ❗ Opened issue [#349](https://github.com/crowdsecurity/helm-charts/issues/349) in [crowdsecurity/helm-charts](https://github.com/crowdsecurity/helm-charts)
 4. 💪 Opened PR [#19](https://github.com/lyonzin/knowledge-rag/pull/19) in [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag)
 <!--END_SECTION:activity-->
