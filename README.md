@@ -30,6 +30,12 @@
   <a href="https://www.credly.com/badges/a5d7dba7-1eb3-456e-ac0f-77ed2a4363d0"><img src="https://images.credly.com/size/90x90/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA" width="90"></a>
 </p>
 
+### 🎓 Latest Credly Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<!--
 <details>
 <summary><b>☁️ All Certifications (AWS, Azure, HashiCorp, VMware, Microsoft, GitHub)</b></summary>
 <br>
@@ -64,7 +70,7 @@
 </p>
 
 </details>
-
+-->
 ---
 
 ### 🛠 Tech Stack
