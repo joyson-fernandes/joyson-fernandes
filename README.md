@@ -49,6 +49,20 @@
 [![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/488169ab-b5f3-48e8-ad70-729da45c483c)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/360d610c-b0e2-4142-b469-e1feb3b9fb33)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/80x80/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/e2a99715-318c-4860-b449-a27424ff11ee)
+[![MTA: Windows Server Administration Fundamentals - Certified 2021](https://images.credly.com/size/80x80/images/65593178-9224-43a3-bf3c-98715f94dcf8/MTA-Windows_Server_Administration_Fundamentals-600x600.png)](https://www.credly.com/badges/beb428cd-1d52-46ff-b924-9e585885f065)
+[![MTA: Windows Operating System Fundamentals - Certified 2021](https://images.credly.com/size/80x80/images/e053125b-ff30-4a16-90cc-8804a306c4b6/MTA-Windows_Operating_System_Fundamentals-600x600.png)](https://www.credly.com/badges/ad459674-3e0e-4439-b292-266c13a66d2c)
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/80x80/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/25e7a79e-3460-4ce3-bef7-4b71be99c789)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/e9f09c88-b460-4ebb-8244-e2ef8af6d803)
+[![Exam 412: Configuring Advanced Windows Server 2012 Services](https://images.credly.com/size/80x80/images/e5fd613d-591c-490c-b366-3afb3de4717b/Configuring_Advanced_Windows_Server_2012_Services-01.png)](https://www.credly.com/badges/dea2133a-d46b-4c58-a2fe-002d401e5c45)
+[![MCSA: Windows Server 2012 - Certified 2019](https://images.credly.com/size/80x80/images/3b801952-5bdb-4f9c-8643-b6060a804fc0/MCSA-Windows-Server-2012-2019.png)](https://www.credly.com/badges/ef8ef9c4-6980-4ff1-b6d6-314251c8b4ac)
+[![Exam 411: Administering Windows Server 2012](https://images.credly.com/size/80x80/images/47f54743-e103-4e3c-97c0-abcf48bdc68e/Administering_Windows_Server_2012-01.png)](https://www.credly.com/badges/524cc5bb-7ba4-419d-b94a-a29d351082ed)
+[![Dependable](https://images.credly.com/size/80x80/images/94ab7821-2b7c-483b-8d80-a093d951dcb1/e55be82e40236b550521f0449639d2718c10ae26.png)](https://www.credly.com/badges/edbc8ae5-4379-44a8-9260-7266b769a473)
+[![Exam 410: Installing and Configuring Windows Server 2012](https://images.credly.com/size/80x80/images/f1c8b841-d2af-46d0-a7af-f40f7b443c79/Installing_and_Configuring_Windows_Server_2012-01.png)](https://www.credly.com/badges/da17bbf1-b959-4c35-b960-2164e30d6523)
+[![Problem Solver](https://images.credly.com/size/80x80/images/1c56a5bb-1f40-4ee0-bac3-4f6a01d6c2e5/f543501e771795b28400180c2136660979340875.png)](https://www.credly.com/badges/9c027a49-b7c3-49ac-91d7-dc022ab5c68c)
+[![Well Organized](https://images.credly.com/size/80x80/images/02233e24-50c1-4843-b567-7d6458169170/02eb0c98953ad60d0ba670323f9a4f5a8861abab.png)](https://www.credly.com/badges/86c74022-ae18-41cb-9d2a-91453f12f78d)
+[![VMware Certified Professional 6 – Data Center Virtualization](https://images.credly.com/size/80x80/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png)](https://www.credly.com/badges/2c132a80-2d58-4411-b616-2687ef7ff387)
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa)
 <!--END_SECTION:badges-->
 
 <!--
