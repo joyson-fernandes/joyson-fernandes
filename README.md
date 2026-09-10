@@ -33,6 +33,7 @@
 ### 🎓 Latest Credly Certifications
 
 <!--START_SECTION:badges-->
+[![KCA: Kyverno Certified Associate](https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png)](https://www.credly.com/badges/cc3e213d-9c17-4d2b-982d-073536427af7)
 [![CAPA: Certified Argo Project Associate](https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png)](https://www.credly.com/badges/1ef5e5f6-0fa8-45aa-a56c-0e52d066ea70)
 [![CGOA: Certified GitOps Associate](https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)](https://www.credly.com/badges/06b39ece-b5da-4ae6-bdd6-8b71beb054e7)
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1677b995-9642-44e2-8961-026f84810bbc/blob)](https://www.credly.com/badges/23756dbc-37e9-4046-9a84-b35dbecce4c8)
@@ -62,7 +63,6 @@
 [![Well Organized](https://images.credly.com/size/80x80/images/02233e24-50c1-4843-b567-7d6458169170/02eb0c98953ad60d0ba670323f9a4f5a8861abab.png)](https://www.credly.com/badges/86c74022-ae18-41cb-9d2a-91453f12f78d)
 [![VMware Certified Professional 6 – Data Center Virtualization](https://images.credly.com/size/80x80/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png)](https://www.credly.com/badges/2c132a80-2d58-4411-b616-2687ef7ff387)
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/184a6bab-c250-4f14-a463-a6426e108370)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b113ee6f-69d3-4ae2-a513-19dc2eb269aa)
 <!--END_SECTION:badges-->
 
 <!--
